@@ -11,3 +11,9 @@ going to add some highlights
 ```
 console.log("i love you people");
 ```
+going to add some task list 
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] this is complete 
